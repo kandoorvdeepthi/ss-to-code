@@ -1,0 +1,13 @@
+# Pinned from the working local venv (Python 3.9, macOS).
+# Install with: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+tensorflow==2.20.0
+keras==3.10.0
+numpy==2.0.2
+pillow==11.3.0
+h5py==3.14.0
+jupyter==1.1.1
+ipykernel==6.31.0
+nbconvert==7.17.1
+nbclient==0.10.2
+nltk==3.9.2
+tqdm==4.70.1
